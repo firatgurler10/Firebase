@@ -1,3 +1,3 @@
 # Firebase
 
-In the Firebase project, the options of registering to the site, logging in and logging in with Google were made for the purpose of working and placing buttons and providing access to the home page.
+In the Firebase project, it was made with React in order to make the site registration, login and Google login options work, to place the buttons and to provide access to the home page.
